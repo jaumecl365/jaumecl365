@@ -23,3 +23,7 @@ The *visual design* choices made for the project prioritize simplicity, clarity,
    - Tables are used for structured content such as education, work experience, and bio-data, providing a clear, organized layout.
 
 This design approach ensures a *user-friendly* experience with an emphasis on *clarity and professionalism*, ideal for a modern resume or profile page.
+
+
+Figma: https://www.figma.com/design/wD6jHsqlE1rtpKgKl2HOPr/curriculum?node-id=0-1&t=X1DB58Ll6xmFjbVa-1
+
